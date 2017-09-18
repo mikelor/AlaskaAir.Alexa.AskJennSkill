@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlaskaAir.Alexa", "AlaskaAir.Alexa\AlaskaAir.Alexa.csproj", "{2773E3BE-FDF9-4FB2-A18A-A7C5EA7E2CDF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1F7F61A1-3E9A-4EF7-B2C5-3E3F3F28F5E1}"
+	ProjectSection(SolutionItems) = preProject
+		sdks\AlmeApiSdk.dll = sdks\AlmeApiSdk.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
